@@ -1,0 +1,56 @@
+{
+ "mildenhall2021nerf": {
+  "arxiv": "2003.08934"
+ },
+ "galligan2018google": {
+  "paper": "https://google.github.io/draco/spec/"
+ },
+ "jpeg2026workplan": {
+  "paper": "https://jpeg.org/jpegai/"
+ },
+ "mpeg2026gsc": {
+  "paper": "https://www.mpeg.org/standards/Explorations/45/"
+ },
+ "iso2024nnc": {
+  "paper": "https://www.iso.org/search.html?q=ISO%2FIEC%2015938-17"
+ },
+ "chen2026fcgs": {
+  "arxiv": "2410.08017"
+ },
+ "gao2024hicom": {
+  "arxiv": "2411.07541"
+ },
+ "skodras2001jpeg": {
+  "paper": "https://doi.org/10.1109/79.952804"
+ },
+ "sullivan2012overview": {
+  "paper": "https://doi.org/10.1109/TCSVT.2012.2221191"
+ },
+ "wiegand2003overview": {
+  "paper": "https://doi.org/10.1109/TCSVT.2003.815165"
+ },
+ "wallace1991jpeg": {
+  "paper": "https://doi.org/10.1145/103085.103089"
+ },
+ "bross2021overview": {
+  "paper": "https://doi.org/10.1109/TCSVT.2021.3101953"
+ },
+ "ascenso2023jpeg": {
+  "paper": "https://doi.org/10.1109/MMUL.2023.3245919"
+ },
+ "li2021deepcontextual": {
+  "arxiv": "2109.15047"
+ },
+ "grunwald2007minimum": {
+  "paper": "https://mitpress.mit.edu/9780262072816/the-minimum-description-length-principle/"
+ },
+ "xu2024vq": {
+  "arxiv": "2403.12401v1"
+ },
+ "liu2025d2gv": {
+  "arxiv": "2503.05600v1"
+ },
+ "di2025gode": {
+  "arxiv": "2501.13558v1"
+ }
+}

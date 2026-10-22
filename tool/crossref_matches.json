@@ -1,0 +1,1522 @@
+{
+ "wallace1991jpeg": {
+  "bib_title": "The JPEG still picture compression standard",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1145/103085.103089",
+   "title": "The JPEG still picture compression standard",
+   "container": "Communications of the ACM",
+   "type": "journal-article"
+  }
+ },
+ "skodras2001jpeg": {
+  "bib_title": "The JPEG 2000 still image compression standard",
+  "match": {
+   "score": 0.95,
+   "doi": "10.1016/s0923-5965(01)00024-8",
+   "title": "An overview of the JPEG 2000 still image compression standard",
+   "container": "Signal Processing: Image Communication",
+   "type": "journal-article"
+  }
+ },
+ "wiegand2003overview": {
+  "bib_title": "Overview of the H.264/AVC video coding standard",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1117/12.512557",
+   "title": "Overview of the H.264/AVC video coding standard",
+   "container": "SPIE Proceedings",
+   "type": "proceedings-article"
+  }
+ },
+ "sullivan2012overview": {
+  "bib_title": "Overview of the high efficiency video coding (HEVC) standard",
+  "match": {
+   "score": 0.901,
+   "doi": "10.1109/icip.2015.7351182",
+   "title": "Overview of the multiview high efficiency video coding (MV-HEVC) standard",
+   "container": "2015 IEEE International Conference on Image Processing (ICIP)",
+   "type": "proceedings-article"
+  }
+ },
+ "balle2017end": {
+  "bib_title": "End-to-end optimized image compression",
+  "match": {
+   "score": 0.957,
+   "doi": "10.1109/tip.2019.2960869",
+   "title": "End-to-End Optimized ROI Image Compression",
+   "container": "IEEE Transactions on Image Processing",
+   "type": "journal-article"
+  }
+ },
+ "balle2018variational": {
+  "bib_title": "Variational image compression with a scale hyperprior",
+  "match": {
+   "score": 0.613,
+   "doi": "10.1109/icip46576.2022.9897854",
+   "title": "Memory-Efficient Learned Image Compression with Pruned Hyperprior Module",
+   "container": "2022 IEEE International Conference on Image Processing (ICIP)",
+   "type": "proceedings-article"
+  }
+ },
+ "minnen2018joint": {
+  "bib_title": "Joint autoregressive and hierarchical priors for learned image compression",
+  "match": {
+   "score": 0.822,
+   "doi": "10.1109/cvpr52688.2022.00590",
+   "title": "Joint Global and Local Hierarchical Priors for Learned Image Compression",
+   "container": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "he2022elic": {
+  "bib_title": "ELIC: Efficient learned image compression with unevenly grouped space-channel contextual adaptive coding",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52688.2022.00563",
+   "title": "ELIC: Efficient Learned Image Compression with Unevenly Grouped Space-Channel Contextual Adaptive Coding",
+   "container": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "campos2019content": {
+  "bib_title": "Content adaptive optimization for neural image compression",
+  "match": {
+   "score": 0.646,
+   "doi": "10.1109/icip.1994.413706",
+   "title": "Size-adaptive neural network for image compression",
+   "container": "Proceedings of 1st International Conference on Image Processing",
+   "type": "proceedings-article"
+  }
+ },
+ "yang2020improving": {
+  "bib_title": "Improving inference for neural image compression",
+  "match": {
+   "score": 0.667,
+   "doi": "10.1007/978-1-4612-2472-3_13",
+   "title": "Inference Algorithms for WFA and Image Compression",
+   "container": "Fractal Image Compression",
+   "type": "book-chapter"
+  }
+ },
+ "yang2023introduction": {
+  "bib_title": "An introduction to neural data compression",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1561/9781638281757",
+   "title": "An Introduction to Neural Data Compression",
+   "container": "",
+   "type": "monograph"
+  }
+ },
+ "mishra2022deep": {
+  "bib_title": "Deep architectures for image compression: A critical review",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1016/j.sigpro.2021.108346",
+   "title": "Deep Architectures for Image Compression: A Critical Review",
+   "container": "Signal Processing",
+   "type": "journal-article"
+  }
+ },
+ "gao2022nerf": {
+  "bib_title": "NeRF: Neural radiance field in 3D vision: A comprehensive review (updated post-Gaussian splatting)",
+  "match": {
+   "score": 0.461,
+   "doi": "10.32388/mvi2qi",
+   "title": "Review of: \"ρ-NeRF: Leveraging Attenuation Priors in Neural Radiance Field for 3D Computed Tomography Reconstruction\"",
+   "container": "",
+   "type": "peer-review"
+  }
+ },
+ "chen2024survey3dgs": {
+  "bib_title": "A survey on 3D Gaussian splatting",
+  "match": {
+   "score": 0.95,
+   "doi": "10.1109/tpami.2026.3704980/mm1",
+   "title": "A Survey on 3D Gaussian Splatting Applications: Segmentation, Editing, and Generation_supp1-3704980.pdf",
+   "container": "",
+   "type": "component"
+  }
+ },
+ "wu2024recent3dgs": {
+  "bib_title": "Recent advances in 3D Gaussian splatting",
+  "match": {
+   "score": 0.95,
+   "doi": "10.1016/j.imavis.2024.105304",
+   "title": "A review of recent advances in 3D Gaussian Splatting for optimization and reconstruction",
+   "container": "Image and Vision Computing",
+   "type": "journal-article"
+  }
+ },
+ "sitzmann2020implicit": {
+  "bib_title": "Implicit neural representations with periodic activation functions",
+  "match": {
+   "score": 0.745,
+   "doi": "10.1109/ispcc53510.2021.9609352",
+   "title": "Enhancing 3D implicit shape representation by leveraging periodic activation functions",
+   "container": "2021 6th International Conference on Signal Processing, Computing and Control (ISPCC)",
+   "type": "proceedings-article"
+  }
+ },
+ "dupont2021coin": {
+  "bib_title": "COIN: Compression with implicit neural representations",
+  "match": {
+   "score": 0.775,
+   "doi": "10.1109/crv60082.2023.00039",
+   "title": "Hyperspectral Image Compression Using Implicit Neural Representations",
+   "container": "2023 20th Conference on Robots and Vision (CRV)",
+   "type": "proceedings-article"
+  }
+ },
+ "chen2021nerv": {
+  "bib_title": "NeRV: Neural representations for videos",
+  "match": {
+   "score": 0.782,
+   "doi": "10.1109/icip49359.2023.10222144",
+   "title": "PS-NeRV: Patch-Wise Stylized Neural Representations for Videos",
+   "container": "2023 IEEE International Conference on Image Processing (ICIP)",
+   "type": "proceedings-article"
+  }
+ },
+ "ladune2023cool": {
+  "bib_title": "Cool-Chic: Coordinate-based low complexity hierarchical image codec",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/iccv51070.2023.01243",
+   "title": "COOL-CHIC: Coordinate-based Low Complexity Hierarchical Image Codec",
+   "container": "2023 IEEE/CVF International Conference on Computer Vision (ICCV)",
+   "type": "proceedings-article"
+  }
+ },
+ "kwan2024nvrc": {
+  "bib_title": "NVRC: Neural video representation compression",
+  "match": {
+   "score": 1.0,
+   "doi": "10.52202/079017-4210",
+   "title": "NVRC: Neural Video Representation Compression",
+   "container": "Advances in Neural Information Processing Systems 37",
+   "type": "proceedings-article"
+  }
+ },
+ "zhang2024gaussianimage": {
+  "bib_title": "GaussianImage: 1000 FPS image representation and compression by 2D Gaussian splatting",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1007/978-3-031-72673-6_18",
+   "title": "GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting",
+   "container": "Lecture Notes in Computer Science",
+   "type": "book-chapter"
+  }
+ },
+ "chen2024hac": {
+  "bib_title": "HAC: Hash-grid assisted context for 3D Gaussian splatting compression",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1007/978-3-031-72667-5_24",
+   "title": "HAC: Hash-Grid Assisted Context for 3D Gaussian Splatting Compression",
+   "container": "Lecture Notes in Computer Science",
+   "type": "book-chapter"
+  }
+ },
+ "wu20244d": {
+  "bib_title": "4D Gaussian splatting for real-time dynamic scene rendering",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52733.2024.01920",
+   "title": "4D Gaussian Splatting for Real-Time Dynamic Scene Rendering",
+   "container": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "wang2025gsvc": {
+  "bib_title": "GSVC: Efficient video representation and compression through 2D Gaussian splatting",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1145/3712678.3721876",
+   "title": "GSVC: Efficient Video Representation and Compression Through 2D Gaussian Splatting",
+   "container": "Proceedings of the 35th edition of the Workshop on Network and Operating System Support for Digital Audio and Video",
+   "type": "proceedings-article"
+  }
+ },
+ "hu20254dgc": {
+  "bib_title": "4DGC: Rate-aware 4D Gaussian compression for efficient streamable free-viewpoint video",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52734.2025.00090",
+   "title": "4DGC: Rate-Aware 4D Gaussian Compression for Efficient Streamable Free-Viewpoint Video",
+   "container": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "rissanen1978modeling": {
+  "bib_title": "Modeling by shortest data description",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1016/0005-1098(78)90005-5",
+   "title": "Modeling by shortest data description",
+   "container": "Automatica",
+   "type": "journal-article"
+  }
+ },
+ "grunwald2007minimum": {
+  "bib_title": "The minimum description length principle",
+  "match": {
+   "score": 0.957,
+   "doi": "10.1007/springerreference_179252",
+   "title": "Minimum Description Length Principle",
+   "container": "SpringerReference",
+   "type": "reference-entry"
+  }
+ },
+ "rahaman2019spectral": {
+  "bib_title": "On the spectral bias of neural networks",
+  "match": {
+   "score": 0.583,
+   "doi": "10.1016/j.neunet.2025.107179",
+   "title": "On spectral bias reduction of multi-scale neural networks for regression problems",
+   "container": "Neural Networks",
+   "type": "journal-article"
+  }
+ },
+ "tancik2020fourier": {
+  "bib_title": "Fourier features let networks learn high frequency functions in low dimensional domains",
+  "match": {
+   "score": 0.489,
+   "doi": "10.1007/s00371-025-03996-5",
+   "title": "CFF: Chunked Fourier Features Mapping Let NeRF Learn Fine 3D Knowledge",
+   "container": "The Visual Computer",
+   "type": "journal-article"
+  }
+ },
+ "bross2021overview": {
+  "bib_title": "Overview of the versatile video coding (VVC) standard and its applications",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/tcsvt.2021.3101953",
+   "title": "Overview of the Versatile Video Coding (VVC) Standard and its Applications",
+   "container": "IEEE Transactions on Circuits and Systems for Video Technology",
+   "type": "journal-article"
+  }
+ },
+ "dupont2022coin": {
+  "bib_title": "COIN++: Neural compression across modalities",
+  "match": {
+   "score": 0.558,
+   "doi": "10.14711/thesis-991013340440903412",
+   "title": "Exploring neural stylization and rendering across 2D and 3D visual modalities",
+   "container": "",
+   "type": "dissertation"
+  }
+ },
+ "niedermayr2024compressed": {
+  "bib_title": "Compressed 3D Gaussian splatting for accelerated novel view synthesis",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52733.2024.00985",
+   "title": "Compressed 3D Gaussian Splatting for Accelerated Novel View Synthesis",
+   "container": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "kim2024c3": {
+  "bib_title": "C3: High-performance and low-complexity neural compression from a single image or video",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52733.2024.00893",
+   "title": "C3: High-Performance and Low-Complexity Neural Compression from a Single Image or Video",
+   "container": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "chu2024cpe": {
+  "bib_title": "CPE COIN++: Towards optimized implicit neural representation compression via Chebyshev positional encoding",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1007/978-981-97-8692-3_36",
+   "title": "CPE COIN++: Towards Optimized Implicit Neural Representation Compression Via Chebyshev Positional Encoding",
+   "container": "Lecture Notes in Computer Science",
+   "type": "book-chapter"
+  }
+ },
+ "saragadam2023wire": {
+  "bib_title": "WIRE: Wavelet implicit neural representations",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52729.2023.01775",
+   "title": "WIRE: Wavelet Implicit Neural Representations",
+   "container": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "liu2024finer": {
+  "bib_title": "FINER: Flexible spectral-bias tuning in implicit neural representation by variable-periodic activation functions",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52733.2024.00262",
+   "title": "FINER: Flexible Spectral-Bias Tuning in Implicit NEural Representation by Variableperiodic Activation Functions",
+   "container": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "yan2025inram": {
+  "bib_title": "INRAM: Implicit neural representation with attention mechanism",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1007/s11220-025-00610-9",
+   "title": "INRAM: Implicit Neural Representation with Attention Mechanism",
+   "container": "Sensing and Imaging",
+   "type": "journal-article"
+  }
+ },
+ "cai2024conv": {
+  "bib_title": "Conv-INR: Convolutional implicit neural representation for multimodal visual signals",
+  "match": {
+   "score": 0.486,
+   "doi": "10.58530/2025/2031",
+   "title": "PIC-INR: Scan-specific unsupervised IVIM parameter mapping using physics-informed convolutional implicit neural representation",
+   "container": "ISMRM Annual Meeting",
+   "type": "proceedings-article"
+  }
+ },
+ "pham2023autoencoding": {
+  "bib_title": "Autoencoding implicit neural representations for image compression",
+  "match": {
+   "score": 0.821,
+   "doi": "10.36227/techrxiv.174952637.72796323/v1",
+   "title": "A Survey of Implicit Neural Representations for Video Compression",
+   "container": "",
+   "type": "posted-content"
+  }
+ },
+ "gordon2024d": {
+  "bib_title": "D'OH: Decoder-only random hypernetworks for implicit neural representations",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1007/978-981-96-0963-5_8",
+   "title": "D’OH: Decoder-Only Random Hypernetworks for Implicit Neural Representations",
+   "container": "Lecture Notes in Computer Science",
+   "type": "book-chapter"
+  }
+ },
+ "li2023hybrid": {
+  "bib_title": "Hybrid implicit neural image compression with subpixel context model and iterative pruner",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/vcip59821.2023.10402791",
+   "title": "Hybrid Implicit Neural Image Compression with Subpixel Context Model and Iterative Pruner",
+   "container": "2023 IEEE International Conference on Visual Communications and Image Processing (VCIP)",
+   "type": "proceedings-article"
+  }
+ },
+ "jayasundara2025sinr": {
+  "bib_title": "SINR: Sparsity driven compressed implicit neural representations",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52734.2025.00291",
+   "title": "SINR: Sparsity Driven Compressed Implicit Neural Representations",
+   "container": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "han2025towards": {
+  "bib_title": "Towards lossless implicit neural representation via bit plane decomposition",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52734.2025.00217",
+   "title": "Towards Lossless Implicit Neural Representation via Bit Plane Decomposition",
+   "container": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "catania2026paaf": {
+  "bib_title": "PaaF: Raising the perceived quality of INR-based image compression",
+  "match": {
+   "score": 0.673,
+   "doi": "10.36227/techrxiv.175021904.44376980/v1",
+   "title": "NIF25: Reducing the Gap in INR-Based Image Compression",
+   "container": "",
+   "type": "posted-content"
+  }
+ },
+ "lee2023entropy": {
+  "bib_title": "Entropy-constrained implicit neural representations for deep image compression",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/lsp.2023.3279780",
+   "title": "Entropy-Constrained Implicit Neural Representations for Deep Image Compression",
+   "container": "IEEE Signal Processing Letters",
+   "type": "journal-article"
+  }
+ },
+ "benjak2026lance": {
+  "bib_title": "LANCE: Locally adaptive neural context estimation for overfitted image compression",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/tcsvt.2026.3711638",
+   "title": "LANCE: Locally Adaptive Neural Context Estimation for Overfitted Image Compression",
+   "container": "IEEE Transactions on Circuits and Systems for Video Technology",
+   "type": "journal-article"
+  }
+ },
+ "zhang2025fitted": {
+  "bib_title": "Fitted neural lossless image compression",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52734.2025.02165",
+   "title": "Fitted Neural Lossless Image Compression",
+   "container": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "wu2025lotterycodec": {
+  "bib_title": "LotteryCodec: Searching the implicit representation in a random network for low-complexity image compression",
+  "match": {
+   "score": 0.496,
+   "doi": "10.14711/thesis-b647062",
+   "title": "Implicit coding for very low bit rate image compression",
+   "container": "",
+   "type": "dissertation"
+  }
+ },
+ "he2023recombiner": {
+  "bib_title": "Recombiner: Robust and enhanced compression with Bayesian implicit neural representations",
+  "match": {
+   "score": 0.95,
+   "doi": "10.52202/075280-0094",
+   "title": "Compression with Bayesian Implicit Neural Representations",
+   "container": "Advances in Neural Information Processing Systems 36",
+   "type": "proceedings-article"
+  }
+ },
+ "chen2023hnerv": {
+  "bib_title": "HNeRV: A hybrid neural representation for videos",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52729.2023.00990",
+   "title": "HNeRV: A Hybrid Neural Representation for Videos",
+   "container": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "kwan2023hinerv": {
+  "bib_title": "HiNeRV: Video compression with hierarchical encoding-based neural representation",
+  "match": {
+   "score": 1.0,
+   "doi": "10.52202/075280-3177",
+   "title": "HiNeRV: Video Compression with Hierarchical Encoding-based Neural Representation",
+   "container": "Advances in Neural Information Processing Systems 36",
+   "type": "proceedings-article"
+  }
+ },
+ "zhao2023dnerv": {
+  "bib_title": "D-NeRV: Modeling inherent dynamics via difference neural representation for videos",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52729.2023.00202",
+   "title": "DNeRV: Modeling Inherent Dynamics via Difference Neural Representation for Videos",
+   "container": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "lee2023ffnerv": {
+  "bib_title": "FFNeRV: Flow-guided frame-wise neural representations for videos",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1145/3581783.3612444",
+   "title": "FFNeRV: Flow-Guided Frame-Wise Neural Representations for Videos",
+   "container": "Proceedings of the 31st ACM International Conference on Multimedia",
+   "type": "proceedings-article"
+  }
+ },
+ "zhang2024boosting": {
+  "bib_title": "Boosting neural representations for videos with a conditional decoder",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52733.2024.00247",
+   "title": "Boosting Neural Representations for Videos with a Conditional Decoder",
+   "container": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "maiya2023nirvana": {
+  "bib_title": "NIRVANA: Neural implicit representations of videos with adaptive networks and autoregressive patch-wise modeling",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52729.2023.01382",
+   "title": "NIRVANA: Neural Implicit Representations of Videos with Adaptive Networks and Autoregressive Patch-Wise Modeling",
+   "container": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "guo2025metanerv": {
+  "bib_title": "MetaNeRV: Meta neural representations for videos with spatial-temporal guidance",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1609/aaai.v39i3.32336",
+   "title": "MetaNeRV: Meta Neural Representations for Videos with Spatial-Temporal Guidance",
+   "container": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "type": "journal-article"
+  }
+ },
+ "xu2024vq": {
+  "bib_title": "VQ-NeRV: A vector quantized neural representation for videos",
+  "match": {
+   "score": 0.667,
+   "doi": "10.1109/iccv51701.2025.01795",
+   "title": "VQ-SGen: A Vector Quantized Stroke Representation for Creative Sketch Generation",
+   "container": "2025 IEEE/CVF International Conference on Computer Vision (ICCV)",
+   "type": "proceedings-article"
+  }
+ },
+ "leguay2024cool": {
+  "bib_title": "Cool-Chic video: Learned video coding with 800 parameters",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/dcc58796.2024.00010",
+   "title": "Cool-chic video: Learned video coding with 800 parameters",
+   "container": "2024 Data Compression Conference (DCC)",
+   "type": "proceedings-article"
+  }
+ },
+ "gomes2023video": {
+  "bib_title": "Video compression with entropy-constrained neural representations",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52729.2023.01774",
+   "title": "Video Compression with Entropy-Constrained Neural Representations",
+   "container": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "kwan2026nvrcpp": {
+  "bib_title": "Enhanced neural video representation compression across extreme complexity and quality scales",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1007/978-3-032-37020-4_23",
+   "title": "Enhanced Neural Video Representation Compression Across Extreme Complexity and Quality Scales",
+   "container": "Lecture Notes in Computer Science",
+   "type": "book-chapter"
+  }
+ },
+ "chen2024fast": {
+  "bib_title": "Fast encoding and decoding for implicit video representation",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1007/978-3-031-72933-1_23",
+   "title": "Fast Encoding and Decoding for Implicit Video Representation",
+   "container": "Lecture Notes in Computer Science",
+   "type": "book-chapter"
+  }
+ },
+ "zhao2024pnerv": {
+  "bib_title": "PNeRV: Enhancing spatial consistency via pyramidal neural representation for videos",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52733.2024.01807",
+   "title": "PNeRV: Enhancing Spatial Consistency via Pyramidal Neural Representation for Videos",
+   "container": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "yu2021plenoxelsradiancefieldsneural": {
+  "bib_title": "Plenoxels: Radiance fields without neural networks",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52688.2022.00542",
+   "title": "Plenoxels: Radiance Fields without Neural Networks",
+   "container": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "AdaNeRF": {
+  "bib_title": "AdaNeRF: Adaptive sampling for real-time rendering of neural radiance fields",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1007/978-3-031-19790-1_16",
+   "title": "AdaNeRF: Adaptive Sampling for Real-Time Rendering of Neural Radiance Fields",
+   "container": "Lecture Notes in Computer Science",
+   "type": "book-chapter"
+  }
+ },
+ "Neuralsparse": {
+  "bib_title": "Neural sparse voxel fields",
+  "match": {
+   "score": 0.493,
+   "doi": "10.15368/theses.2021.67",
+   "title": "Exploring Material Representations for Sparse Voxel DAGs",
+   "container": "",
+   "type": "dissertation"
+  }
+ },
+ "VQRF": {
+  "bib_title": "Compressing volumetric radiance fields to 1 MB",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52729.2023.00411",
+   "title": "Compressing Volumetric Radiance Fields to 1 MB",
+   "container": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "bird20213d": {
+  "bib_title": "3D scene compression through entropy penalized neural representation functions",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/pcs50896.2021.9477505",
+   "title": "3D Scene Compression through Entropy Penalized Neural Representation Functions",
+   "container": "2021 Picture Coding Symposium (PCS)",
+   "type": "proceedings-article"
+  }
+ },
+ "li2024nerfcodec": {
+  "bib_title": "NeRFCodec: Neural feature compression meets neural radiance fields for memory-efficient scene representation",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52733.2024.02010",
+   "title": "NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-Efficient Scene Representation",
+   "container": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "cao2023hexplane": {
+  "bib_title": "HexPlane: A fast representation for dynamic scenes",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52729.2023.00021",
+   "title": "HexPlane: A Fast Representation for Dynamic Scenes",
+   "container": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "fridovich2023kplanes": {
+  "bib_title": "K-planes: Explicit radiance fields in space, time, and appearance",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52729.2023.01201",
+   "title": "K-Planes: Explicit Radiance Fields in Space, Time, and Appearance",
+   "container": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "wu2024tetrirf": {
+  "bib_title": "TeTriRF: Temporal tri-plane radiance fields for efficient free-viewpoint video",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52733.2024.00620",
+   "title": "TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video",
+   "container": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "zheng2024jointrf": {
+  "bib_title": "JointRF: End-to-end joint optimization for dynamic neural radiance field representation and compression",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/icip51287.2024.10647336",
+   "title": "JOINTRF: End-To-End Joint Optimization for Dynamic Neural Radiance Field Representation and Compression",
+   "container": "2024 IEEE International Conference on Image Processing (ICIP)",
+   "type": "proceedings-article"
+  }
+ },
+ "attal2023hyperreel": {
+  "bib_title": "HyperReel: High-fidelity 6-DoF video with ray-conditioned sampling",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52729.2023.01594",
+   "title": "HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling",
+   "container": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "wang2024videorf": {
+  "bib_title": "VideoRF: Rendering dynamic radiance fields as 2D feature video streams",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52733.2024.00052",
+   "title": "VideoRF: Rendering Dynamic Radiance Fields as 2D Feature Video Streams",
+   "container": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "hu2025vrvvc": {
+  "bib_title": "VRVVC: Variable-rate NeRF-based volumetric video compression",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1609/aaai.v39i4.32370",
+   "title": "VRVVC: Variable-Rate NeRF-Based Volumetric Video Compression",
+   "container": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "type": "journal-article"
+  }
+ },
+ "zhang2025nerflow": {
+  "bib_title": "NeRFlow: Towards adaptive streaming for NeRF videos",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1145/3711875.3729160",
+   "title": "NeRFlow: Towards Adaptive Streaming for NeRF Videos",
+   "container": "Proceedings of the 23rd Annual International Conference on Mobile Systems, Applications and Services",
+   "type": "proceedings-article"
+  }
+ },
+ "kim2024neuralvdb": {
+  "bib_title": "NeuralVDB: High-resolution sparse volume representation using hierarchical neural networks",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1145/3641817",
+   "title": "NeuralVDB: High-resolution Sparse Volume Representation using Hierarchical Neural Networks",
+   "container": "ACM Transactions on Graphics",
+   "type": "journal-article"
+  }
+ },
+ "do2023volumetric": {
+  "bib_title": "Volumetric attribute compression for 3D point clouds using feedforward network with geometric attention",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/icassp49357.2023.10096559",
+   "title": "Volumetric Attribute Compression for 3D Point Clouds Using Feedforward Network with Geometric Attention",
+   "container": "ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+   "type": "proceedings-article"
+  }
+ },
+ "gu2023nervi": {
+  "bib_title": "NeRVI: Compressive neural representation of visualization images for communicating volume visualization results",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1016/j.cag.2023.08.024",
+   "title": "NeRVI: Compressive neural representation of visualization images for communicating volume visualization results",
+   "container": "Computers &amp; Graphics",
+   "type": "journal-article"
+  }
+ },
+ "pentapati2025mesh": {
+  "bib_title": "Mesh compression with quantized neural displacement fields",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1111/cgf.70074",
+   "title": "Mesh Compression with Quantized Neural Displacement Fields",
+   "container": "Computer Graphics Forum",
+   "type": "journal-article"
+  }
+ },
+ "isik2022lvac": {
+  "bib_title": "LVAC: Learned volumetric attribute compression for point clouds using coordinate based networks",
+  "match": {
+   "score": 1.0,
+   "doi": "10.3389/frsip.2022.1008812",
+   "title": "LVAC: Learned volumetric attribute compression for point clouds using coordinate based networks",
+   "container": "Frontiers in Signal Processing",
+   "type": "journal-article"
+  }
+ },
+ "ren2024necgs": {
+  "bib_title": "Neural compression for 3D geometry sets",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/iccv51701.2025.02346",
+   "title": "Neural Compression for 3D Geometry Sets",
+   "container": "2025 IEEE/CVF International Conference on Computer Vision (ICCV)",
+   "type": "proceedings-article"
+  }
+ },
+ "yang2023sci": {
+  "bib_title": "SCI: A spectrum concentrated implicit neural compression for biomedical data",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1609/aaai.v37i4.25602",
+   "title": "SCI: A Spectrum Concentrated Implicit Neural Compression for Biomedical Data",
+   "container": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "type": "journal-article"
+  }
+ },
+ "li2025compact": {
+  "bib_title": "A compact implicit neural representation for efficient storage of massive 4D functional magnetic resonance imaging",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1609/aaai.v39i5.32520",
+   "title": "A Compact Implicit Neural Representation for Efficient Storage of Massive 4D Functional Magnetic Resonance Imaging",
+   "container": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "type": "journal-article"
+  }
+ },
+ "dai2025implicit": {
+  "bib_title": "Implicit neural image field for biological microscopy image compression",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1038/s43588-025-00889-4",
+   "title": "Implicit neural image field for biological microscopy image compression",
+   "container": "Nature Computational Science",
+   "type": "journal-article"
+  }
+ },
+ "mostajeran2025context": {
+  "bib_title": "Context-aware implicit neural representations to compress Earth systems model data",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1038/s41598-025-11092-w",
+   "title": "Context-aware implicit neural representations to compress Earth systems model data",
+   "container": "Scientific Reports",
+   "type": "journal-article"
+  }
+ },
+ "le2024implicit": {
+  "bib_title": "Implicit neural multiple description for DNA-based data storage",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/icassp48485.2024.10446157",
+   "title": "Implicit Neural Multiple Description for DNA-Based Data Storage",
+   "container": "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+   "type": "proceedings-article"
+  }
+ },
+ "liu2025d2gv": {
+  "bib_title": "D2GV: Deformable 2D Gaussian splatting for video representation in 400 FPS",
+  "match": {
+   "score": 0.582,
+   "doi": "10.58837/chula.the.2025.145",
+   "title": "Endoplanar: deformable planar-based gaussian splatting for surgical scene reconstruction",
+   "container": "",
+   "type": "dissertation"
+  }
+ },
+ "zhang20242d": {
+  "bib_title": "2D Gaussian splatting for image compression",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1561/116.20240025",
+   "title": "2D Gaussian Splatting for Image Compression",
+   "container": "APSIPA Transactions on Signal and Information Processing",
+   "type": "journal-article"
+  }
+ },
+ "zhang2025image": {
+  "bib_title": "Image-GS: Content-adaptive image representation via 2D Gaussians",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1145/3721238.3730596",
+   "title": "Image-GS: Content-Adaptive Image Representation via 2D Gaussians",
+   "container": "Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers",
+   "type": "proceedings-article"
+  }
+ },
+ "gao20252d": {
+  "bib_title": "2D Gaussian splatting with pre-trained dictionaries for image compression",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/lsp.2025.3619027",
+   "title": "2D Gaussian Splatting With Pre-Trained Dictionaries for Image Compression",
+   "container": "IEEE Signal Processing Letters",
+   "type": "journal-article"
+  }
+ },
+ "liang2025structure": {
+  "bib_title": "Structure-guided allocation of 2D Gaussians for image representation and compression",
+  "match": {
+   "score": 0.755,
+   "doi": "10.1109/icme59968.2025.11209121",
+   "title": "Spectrum-Adaptive Distribution of 2D Gaussians for Image Representation and Compression",
+   "container": "2025 IEEE International Conference on Multimedia and Expo (ICME)",
+   "type": "proceedings-article"
+  }
+ },
+ "pan2026sgi": {
+  "bib_title": "SGI: Structured 2D Gaussians for efficient and compact large image representation",
+  "match": {
+   "score": 0.547,
+   "doi": "10.36227/techrxiv.15173058",
+   "title": "Category-Oriented Self-Learning Graph Embedding for Efficient Image Compact Representation",
+   "container": "",
+   "type": "posted-content"
+  }
+ },
+ "zhu2025large": {
+  "bib_title": "Large images are Gaussians: High-quality large image representation with levels of 2D Gaussian splatting",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1609/aaai.v39i10.33193",
+   "title": "Large Images Are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting",
+   "container": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "type": "journal-article"
+  }
+ },
+ "hu2025gaussiansr": {
+  "bib_title": "GaussianSR: High fidelity 2D Gaussian splatting for arbitrary-scale image super-resolution",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1609/aaai.v39i4.32369",
+   "title": "GaussianSR: High Fidelity 2D Gaussian Splatting for Arbitrary-Scale Image Super-Resolution",
+   "container": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "type": "journal-article"
+  }
+ },
+ "sun2024splatter": {
+  "bib_title": "Splatter a video: Video Gaussian representation for versatile processing",
+  "match": {
+   "score": 1.0,
+   "doi": "10.52202/079017-1597",
+   "title": "Splatter a Video: Video Gaussian Representation  for Versatile Processing",
+   "container": "Advances in Neural Information Processing Systems 37",
+   "type": "proceedings-article"
+  }
+ },
+ "gupta2025neural": {
+  "bib_title": "Neural video compression using 2D Gaussian splatting",
+  "match": {
+   "score": 0.644,
+   "doi": "10.1145/3712678.3721876",
+   "title": "GSVC: Efficient Video Representation and Compression Through 2D Gaussian Splatting",
+   "container": "Proceedings of the 35th edition of the Workshop on Network and Operating System Support for Digital Audio and Video",
+   "type": "proceedings-article"
+  }
+ },
+ "niemeyer2025radsplat": {
+  "bib_title": "RadSplat: Radiance field-informed Gaussian splatting for robust real-time rendering with 900+ FPS",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/3dv66043.2025.00018",
+   "title": "RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real- Time Rendering with 900+ FPS",
+   "container": "2025 International Conference on 3D Vision (3DV)",
+   "type": "proceedings-article"
+  }
+ },
+ "chen2024text": {
+  "bib_title": "Text-to-3D using Gaussian splatting",
+  "match": {
+   "score": 0.625,
+   "doi": "10.2139/ssrn.5239911",
+   "title": "Directgaussian: Generating Surface for Text-to-3d Using 2d Gaussian Splatting",
+   "container": "",
+   "type": "posted-content"
+  }
+ },
+ "yi2024gaussiandreamer": {
+  "bib_title": "GaussianDreamer: Fast generation from text to 3D Gaussians by bridging 2D and 3D diffusion models",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52733.2024.00649",
+   "title": "GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models",
+   "container": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "chung2024depth": {
+  "bib_title": "Depth-regularized optimization for 3D Gaussian splatting in few-shot images",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvprw63382.2024.00086",
+   "title": "Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images",
+   "container": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+   "type": "proceedings-article"
+  }
+ },
+ "zhu2024fsgs": {
+  "bib_title": "FSGS: Real-time few-shot view synthesis using Gaussian splatting",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1007/978-3-031-72933-1_9",
+   "title": "FSGS: Real-Time Few-Shot View Synthesis Using Gaussian Splatting",
+   "container": "Lecture Notes in Computer Science",
+   "type": "book-chapter"
+  }
+ },
+ "teotia2024gaussianheads": {
+  "bib_title": "GaussianHeads: End-to-end learning of drivable Gaussian head avatars from coarse-to-fine representations",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1145/3687927",
+   "title": "GaussianHeads: End-to-End Learning of Drivable Gaussian Head Avatars from Coarse-to-fine Representations",
+   "container": "ACM Transactions on Graphics",
+   "type": "journal-article"
+  }
+ },
+ "gao2024relightable": {
+  "bib_title": "Relightable 3D Gaussians: Realistic point cloud relighting with BRDF decomposition and ray tracing",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1007/978-3-031-72995-9_5",
+   "title": "Relightable 3D Gaussians: Realistic Point Cloud Relighting with BRDF Decomposition and Ray Tracing",
+   "container": "Lecture Notes in Computer Science",
+   "type": "book-chapter"
+  }
+ },
+ "liang2024gs": {
+  "bib_title": "GS-IR: 3D Gaussian splatting for inverse rendering",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52733.2024.02045",
+   "title": "GS-IR: 3D Gaussian Splatting for Inverse Rendering",
+   "container": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "cheng2024gaussianpro": {
+  "bib_title": "GaussianPro: 3D Gaussian splatting with progressive propagation",
+  "match": {
+   "score": 0.517,
+   "doi": "10.1109/3dv66043.2025.00096",
+   "title": "LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming",
+   "container": "2025 International Conference on 3D Vision (3DV)",
+   "type": "proceedings-article"
+  }
+ },
+ "zhang2024fregs": {
+  "bib_title": "FreGS: 3D Gaussian splatting with progressive frequency regularization",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52733.2024.02024",
+   "title": "FreGS: 3D Gaussian Splatting with Progressive Frequency Regularization",
+   "container": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "fan2024lightgaussian": {
+  "bib_title": "LightGaussian: Unbounded 3D Gaussian compression with 15x reduction and 200+ FPS",
+  "match": {
+   "score": 1.0,
+   "doi": "10.52202/079017-4447",
+   "title": "LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS",
+   "container": "Advances in Neural Information Processing Systems 37",
+   "type": "proceedings-article"
+  }
+ },
+ "hamdi2024ges": {
+  "bib_title": "GES: Generalized exponential splatting for efficient radiance field rendering",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52733.2024.01873",
+   "title": "GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering",
+   "container": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "hu2024gauhuman": {
+  "bib_title": "GauHuman: Articulated Gaussian splatting from monocular human videos",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52733.2024.01930",
+   "title": "GauHuman: Articulated Gaussian Splatting from Monocular Human Videos",
+   "container": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "zhang2024pixel": {
+  "bib_title": "Pixel-GS: Density control with pixel-aware gradient for 3D Gaussian splatting",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1007/978-3-031-72655-2_19",
+   "title": "Pixel-GS: Density Control with Pixel-Aware Gradient for 3D Gaussian Splatting",
+   "container": "Lecture Notes in Computer Science",
+   "type": "book-chapter"
+  }
+ },
+ "navaneet2024compgs": {
+  "bib_title": "CompGS: Smaller and faster Gaussian splatting with vector quantization",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1007/978-3-031-73411-3_19",
+   "title": "CompGS: Smaller and Faster Gaussian Splatting with Vector Quantization",
+   "container": "Lecture Notes in Computer Science",
+   "type": "book-chapter"
+  }
+ },
+ "papantonakis2024reducing": {
+  "bib_title": "Reducing the memory footprint of 3D Gaussian splatting",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1145/3651282",
+   "title": "Reducing the Memory Footprint of 3D Gaussian Splatting",
+   "container": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+   "type": "journal-article"
+  }
+ },
+ "lee2024compact": {
+  "bib_title": "Compact 3D Gaussian splatting for static and dynamic radiance fields",
+  "match": {
+   "score": 0.654,
+   "doi": "10.1145/3665318.3677148",
+   "title": "EGGS: Edge Guided Gaussian Splatting for Radiance Fields",
+   "container": "Proceedings of the 29th International ACM Conference on 3D Web Technology",
+   "type": "proceedings-article"
+  }
+ },
+ "ali2025elmgs": {
+  "bib_title": "ELMGS: Enhancing memory and computation scalability through compression for 3D Gaussian splatting",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/wacv61041.2025.00257",
+   "title": "ELMGS: Enhancing Memory and Computation Scalability Through coMpression for 3D Gaussian Splatting",
+   "container": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+   "type": "proceedings-article"
+  }
+ },
+ "wang2024end": {
+  "bib_title": "End-to-end rate-distortion optimized 3D Gaussian representation",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1007/978-3-031-73636-0_5",
+   "title": "End-to-End Rate-Distortion Optimized 3D Gaussian Representation",
+   "container": "Lecture Notes in Computer Science",
+   "type": "book-chapter"
+  }
+ },
+ "hanson2025pup": {
+  "bib_title": "PUP 3D-GS: Principled uncertainty pruning for 3D Gaussian splatting",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52734.2025.00558",
+   "title": "PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting",
+   "container": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "girish2024eagles": {
+  "bib_title": "EAGLES: Efficient accelerated 3D Gaussians with lightweight encodings",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1007/978-3-031-73036-8_4",
+   "title": "EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS",
+   "container": "Lecture Notes in Computer Science",
+   "type": "book-chapter"
+  }
+ },
+ "lu2024scaffold": {
+  "bib_title": "Scaffold-GS: Structured 3D Gaussians for view-adaptive rendering",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52733.2024.01952",
+   "title": "Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering",
+   "container": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "liu2024compgs": {
+  "bib_title": "CompGS: Efficient 3D scene representation via compressed Gaussian splatting",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1145/3664647.3681468",
+   "title": "CompGS: Efficient 3D Scene Representation via Compressed Gaussian Splatting",
+   "container": "Proceedings of the 32nd ACM International Conference on Multimedia",
+   "type": "proceedings-article"
+  }
+ },
+ "wang2024contextgs": {
+  "bib_title": "ContextGS: Compact 3D Gaussian splatting with anchor level context model",
+  "match": {
+   "score": 1.0,
+   "doi": "10.52202/079017-1631",
+   "title": "ContextGS : Compact 3D Gaussian Splatting with Anchor Level Context Model",
+   "container": "Advances in Neural Information Processing Systems 37",
+   "type": "proceedings-article"
+  }
+ },
+ "hu2025excavating": {
+  "bib_title": "Excavating the most critical Gaussians: Sparse selection and structural optimization for efficient 3DGS compression",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1145/3746027.3755480",
+   "title": "Excavating the Most Critical Gaussians: Sparse Selection and Structural Optimization for Efficient 3DGS Compression",
+   "container": "Proceedings of the 33rd ACM International Conference on Multimedia",
+   "type": "proceedings-article"
+  }
+ },
+ "morgenstern2024compact": {
+  "bib_title": "Compact 3D scene representation via self-organizing Gaussian grids",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1007/978-3-031-73013-9_2",
+   "title": "Compact 3D Scene Representation via Self-Organizing Gaussian Grids",
+   "container": "Lecture Notes in Computer Science",
+   "type": "book-chapter"
+  }
+ },
+ "lee2025compression": {
+  "bib_title": "Compression of 3D Gaussian splatting with optimized feature planes and standard video codecs",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/iccv51701.2025.02365",
+   "title": "Compression of 3D Gaussian Splatting with Optimized Feature Planes and Standard Video Codecs",
+   "container": "2025 IEEE/CVF International Conference on Computer Vision (ICCV)",
+   "type": "proceedings-article"
+  }
+ },
+ "zhan2025cat": {
+  "bib_title": "CAT-3DGS: A context-adaptive triplane approach to rate-distortion-optimized 3DGS compression",
+  "match": {
+   "score": 0.481,
+   "doi": "10.23919/eusipco63237.2025.11226320",
+   "title": "CAT-3DGS Pro: A New Benchmark for Efficient 3DGS Compression",
+   "container": "2025 33rd European Signal Processing Conference (EUSIPCO)",
+   "type": "proceedings-article"
+  }
+ },
+ "xie2024mesongs": {
+  "bib_title": "MesonGS: Post-training compression of 3D Gaussians via efficient attribute transformation",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1007/978-3-031-73414-4_25",
+   "title": "MesonGS: Post-training Compression of 3D Gaussians via Efficient Attribute Transformation",
+   "container": "Lecture Notes in Computer Science",
+   "type": "book-chapter"
+  }
+ },
+ "di2025gode": {
+  "bib_title": "GoDe: Gaussians on demand for progressive level of detail and scalable compression",
+  "match": {
+   "score": 0.512,
+   "doi": "10.3403/00629652u",
+   "title": "Information technology. Coded representation of picture and audio information. Progressive bi-level image compression",
+   "container": "",
+   "type": "standard"
+  }
+ },
+ "zoomers2025progs": {
+  "bib_title": "ProGS: Progressive rendering of Gaussian splats",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/wacv61041.2025.00308",
+   "title": "PRoGS: Progressive Rendering of Gaussian Splats",
+   "container": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+   "type": "proceedings-article"
+  }
+ },
+ "chen2025megs": {
+  "bib_title": "MEGS$^2$: Memory-efficient Gaussian splatting via spherical Gaussians and unified pruning",
+  "match": {
+   "score": 0.667,
+   "doi": "10.1109/iros60139.2025.11246063",
+   "title": "MeGS-SLAM:Memory Efficient Gaussian Splatting SLAM with Graph Signal Processing",
+   "container": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "type": "proceedings-article"
+  }
+ },
+ "shin2025leveraging": {
+  "bib_title": "Leveraging learned image prior for 3D Gaussian compression",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/iccvw69036.2025.00320",
+   "title": "Leveraging Learned Image Prior for 3D Gaussian Compression",
+   "container": "2025 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+   "type": "proceedings-article"
+  }
+ },
+ "yang2023real": {
+  "bib_title": "Real-time photorealistic dynamic scene representation and rendering with 4D Gaussian splatting",
+  "match": {
+   "score": 0.516,
+   "doi": "10.1109/cw68232.2025.00020",
+   "title": "StarGS: Towards Real-Time Dynamic Scene Rendering via Gaussian Splatting with Spatiotemporal-Aware Density Control",
+   "container": "2025 International Conference on Cyberworlds (CW）",
+   "type": "proceedings-article"
+  }
+ },
+ "lee2024fully": {
+  "bib_title": "Fully explicit dynamic Gaussian splatting",
+  "match": {
+   "score": 1.0,
+   "doi": "10.52202/079017-0174",
+   "title": "Fully Explicit Dynamic Gaussian Splatting",
+   "container": "Advances in Neural Information Processing Systems 37",
+   "type": "proceedings-article"
+  }
+ },
+ "sun20243dgstream": {
+  "bib_title": "3DGStream: On-the-fly training of 3D Gaussians for efficient streaming of photo-realistic free-viewpoint videos",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52733.2024.01954",
+   "title": "3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos",
+   "container": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "girish2024queen": {
+  "bib_title": "QUEEN: Quantized efficient encoding of dynamic Gaussians for streaming free-viewpoint videos",
+  "match": {
+   "score": 1.0,
+   "doi": "10.52202/079017-1376",
+   "title": "QUEEN: QUantized Efficient ENcoding of Dynamic Gaussians for Streaming Free-viewpoint Videos",
+   "container": "Advances in Neural Information Processing Systems 37",
+   "type": "proceedings-article"
+  }
+ },
+ "huang2024sc": {
+  "bib_title": "SC-GS: Sparse-controlled Gaussian splatting for editable dynamic scenes",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52733.2024.00404",
+   "title": "SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes",
+   "container": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "wan2024superpoint": {
+  "bib_title": "Superpoint Gaussian splatting for real-time high-fidelity dynamic scene reconstruction",
+  "match": {
+   "score": 0.863,
+   "doi": "10.1016/j.knosys.2026.115321",
+   "title": "A decoupled 3D Gaussian splatting method for real-time high-fidelity dynamic scene reconstruction",
+   "container": "Knowledge-Based Systems",
+   "type": "journal-article"
+  }
+ },
+ "oh2025hybrid": {
+  "bib_title": "Hybrid 3D-4D Gaussian splatting for fast dynamic scene representation",
+  "match": {
+   "score": 0.744,
+   "doi": "10.61784/ejst3136",
+   "title": "HYBRID FEATURE-ENHANCED 4D GAUSSIAN SPLATTING FOR DYNAMIC SCENE RECONSTRUCTION",
+   "container": "Eurasia Journal of Science and Technology",
+   "type": "journal-article"
+  }
+ },
+ "gao2024hicom": {
+  "bib_title": "HiCoM: Hierarchical coherent motion for dynamic streamable scenes with 3D Gaussian splatting",
+  "match": {
+   "score": 1.0,
+   "doi": "10.52202/079017-2563",
+   "title": "HiCoM: Hierarchical Coherent Motion for Dynamic Streamable Scenes with 3D Gaussian Splatting",
+   "container": "Advances in Neural Information Processing Systems 37",
+   "type": "proceedings-article"
+  }
+ },
+ "liu2024lgs": {
+  "bib_title": "LGS: A light-weight 4D Gaussian splatting for efficient surgical scene reconstruction",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1007/978-3-031-72384-1_62",
+   "title": "LGS: A Light-Weight 4D Gaussian Splatting for Efficient Surgical Scene Reconstruction",
+   "container": "Lecture Notes in Computer Science",
+   "type": "book-chapter"
+  }
+ },
+ "chen20254dgs": {
+  "bib_title": "4DGS-CC: A contextual coding framework for 4D Gaussian splatting data compression",
+  "match": {
+   "score": 0.587,
+   "doi": "10.1109/tcsvt.2026.3674925/mm1",
+   "title": "4DGS-Craft: Consistent and Interactive 4D Gaussian Splatting Editing_supp1-3674925.mp4",
+   "container": "",
+   "type": "component"
+  }
+ },
+ "tang2025compressing": {
+  "bib_title": "Compressing streamable free-viewpoint videos to 0.1 MB per frame",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1609/aaai.v39i7.32780",
+   "title": "Compressing Streamable Free-Viewpoint Videos to 0.1 MB per Frame",
+   "container": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "type": "journal-article"
+  }
+ },
+ "yan2025instant": {
+  "bib_title": "Instant Gaussian stream: Fast and generalizable streaming of dynamic scene reconstruction via Gaussian splatting",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/cvpr52734.2025.01540",
+   "title": "Instant Gaussian Stream: Fast and Generalizable Streaming of Dynamic Scene Reconstruction via Gaussian Splatting",
+   "container": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "type": "proceedings-article"
+  }
+ },
+ "alruwayqi2025shade": {
+  "bib_title": "SHaDe: Compact and consistent dynamic 3D reconstruction via tri-plane deformation and latent diffusion",
+  "match": {
+   "score": 0.497,
+   "doi": "10.1109/3dv69130.2026.00113",
+   "title": "NVC-GS: Monocular Dynamic Scene Reconstruction via Normal-Regularized and Multi-View-Consistent 3D Gaussian Splatting",
+   "container": "2026 International Conference on 3D Vision (3DV)",
+   "type": "proceedings-article"
+  }
+ },
+ "wu2025swift4d": {
+  "bib_title": "Swift4D: Adaptive divide-and-conquer Gaussian splatting for compact and efficient reconstruction of dynamic scene",
+  "match": {
+   "score": 0.571,
+   "doi": "10.3390/app16020965",
+   "title": "Efficient and Spatially Aware 3D Gaussian Splatting for Compact Large-Scale Scene Reconstruction",
+   "container": "Applied Sciences",
+   "type": "journal-article"
+  }
+ },
+ "zhong20254d": {
+  "bib_title": "4D-MoDe: Towards editable and scalable volumetric streaming via motion-decoupled 4D Gaussian compression",
+  "match": {
+   "score": 0.412,
+   "doi": "10.70675/08b25386z52b0z457az9226zeb33ea76913b",
+   "title": "Towards semantic editing of volumetric video : a Gaussian splatting-based 4D segmentation method and evaluation framework",
+   "container": "",
+   "type": "dissertation"
+  }
+ },
+ "tang2025hgc": {
+  "bib_title": "HGC-Avatar: Hierarchical Gaussian compression for streamable dynamic 3D avatars",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1145/3746027.3755317",
+   "title": "HGC-Avatar: Hierarchical Gaussian Compression for Streamable Dynamic 3D Avatars",
+   "container": "Proceedings of the 33rd ACM International Conference on Multimedia",
+   "type": "proceedings-article"
+  }
+ },
+ "rai2026packuv": {
+  "bib_title": "PackUV: Packed Gaussian UV maps for 4D volumetric video",
+  "match": {
+   "score": 0.511,
+   "doi": "10.52202/085713-3376",
+   "title": "4DGCPro: Efficient Hierarchical 4D Gaussian Compression for Progressive Volumetric Video Streaming",
+   "container": "Advances in Neural Information Processing Systems 38",
+   "type": "proceedings-article"
+  }
+ },
+ "liu2025compgs++": {
+  "bib_title": "CompGS++: Compressed Gaussian splatting for static and dynamic scene representation",
+  "match": {
+   "score": 0.583,
+   "doi": "10.1109/tvcg.2026.3695021/mm2",
+   "title": "Anchor-Driven Compact Gaussian Splatting for Dynamic Scene Reconstruction_supp2-3695021.mp4",
+   "container": "",
+   "type": "component"
+  }
+ },
+ "li2021deepcontextual": {
+  "bib_title": "Deep contextual video compression",
+  "match": {
+   "score": 0.95,
+   "doi": "10.1109/itnt57377.2023.10139047",
+   "title": "Deep Contextual Video Compression Based on Machine Learning",
+   "container": "2023 IX International Conference on Information Technology and Nanotechnology (ITNT)",
+   "type": "proceedings-article"
+  }
+ },
+ "shannon1959coding": {
+  "bib_title": "Coding theorems for a discrete source with a fidelity criterion",
+  "match": {
+   "score": 0.95,
+   "doi": "10.2139/ssrn.6504018",
+   "title": "A Review of Claude E. Shannon’s “Coding Theorems for a Discrete Source With a Fidelity Criterion” (1959)",
+   "container": "",
+   "type": "posted-content"
+  }
+ },
+ "he2023shacira": {
+  "bib_title": "SHACIRA: Scalable hash-grid compression for implicit neural representations",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1109/iccv51070.2023.01606",
+   "title": "SHACIRA: Scalable HAsh-grid Compression for Implicit Neural Representations",
+   "container": "2023 IEEE/CVF International Conference on Computer Vision (ICCV)",
+   "type": "proceedings-article"
+  }
+ },
+ "lee2024gscore": {
+  "bib_title": "GSCore: Efficient radiance field rendering via architectural support for 3D Gaussian splatting",
+  "match": {
+   "score": 1.0,
+   "doi": "10.1145/3620666.3651385",
+   "title": "GSCore: Efficient Radiance Field Rendering via Architectural Support for 3D Gaussian Splatting",
+   "container": "Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 3",
+   "type": "proceedings-article"
+  }
+ }
+}
