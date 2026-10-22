@@ -7,9 +7,9 @@
 </div>
 
 > **Instance-Fitted Representations for Data Compression: A Survey**  
-> [Youneng Bao](https://github.com/baoyu2020)<sup>1</sup>, [Yulong Cheng](https://github.com/smileto1/)<sup>2</sup>, [Yiping Liu](https://nouise.github.io/DD-RUO/)<sup>2</sup>, [Jiacong Chen](https://github.com/ChenJiaCong-1005)<sup>3</sup>, Yongsheng Liang<sup>3</sup>  
+> [Youneng Bao](https://github.com/baoyu2020)<sup>1</sup>, [Yulong Cheng](https://github.com/smileto1/)<sup>2</sup>, [Yiping Liu](https://nouise.github.io/DD-RUO/)<sup>2</sup>, [Jiacong Chen](https://github.com/ChenJiaCong-1005)<sup>1</sup>, Yongsheng Liang<sup>1</sup>  
 >  
-> <sup>1</sup>City University of Hong Kong (CityUHK), <sup>2</sup>Harbin Institute of Technology, Shenzhen (HITSZ), <sup>3</sup>Shenzhen University (SZU)
+> <sup>1</sup>Shenzhen University (SZU), <sup>2</sup>Harbin Institute of Technology, Shenzhen (HITSZ)
 
 ---
 
