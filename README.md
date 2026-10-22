@@ -30,25 +30,25 @@
 - [Representative Milestones](#-representative-milestones)
 - [Recent Papers (2026)](#-recent-papers-2026)
 - [Source-Verified Empirical Anchors](#-source-verified-empirical-anchors-sec-5)
-- **[Functional Representations (Sec. 3)](functional.md)**
+- **[Functional Representations ](functional.md)**
     - [2D Image](functional.md#functional-2d-image)
     - [Video](functional.md#functional-video)
     - [3D Static Scene](functional.md#functional-3d-static-scene)
     - [Dynamic 4D Scenes & Volumetric Video](functional.md#functional-dynamic-4d-scenes--volumetric-video)
     - [3D Shapes / Volumetric](functional.md#functional-3d-shapes--volumetric)
     - [Other Data Modalities](functional.md#functional-other-data-modalities)
-- **[Parametric Primitive Representations (Sec. 4)](parametric.md)**
+- **[Parametric Primitive Representations ](parametric.md)**
     - [2D Image](parametric.md#primitive-2d-image)
     - [Video](parametric.md#primitive-video)
     - [3D Scenes](parametric.md#primitive-3d-scenes)
     - [Dynamic Scene](parametric.md#primitive-dynamic-scene)
-- **[Background and Context (Secs. 1, 2, 5, 6)](context.md)**
+- **[Background and Context ](context.md)**
     - [Traditional codecs (operational reference)](context.md#traditional-codecs-operational-reference)
     - [Amortized learned codecs and auxiliary refinement (context only)](context.md#amortized-learned-codecs-and-auxiliary-refinement-context-only)
     - [Theory](context.md#theory)
     - [Adjacent surveys](context.md#adjacent-surveys)
     - [Standardization](context.md#standardization)
-    - [Hybrid carriers and hardware co-design (Sec. 6)](context.md#hybrid-carriers-and-hardware-co-design-sec-6)
+    - [Hybrid carriers and hardware co-design ](context.md#hybrid-carriers-and-hardware-co-design-sec-6)
 - [Bibliography](survey_refs.bib) · [Citation](#-citation) · [Contact](#-contact)
 
 **Please check out all the papers by selecting the route or sub-area you are interested in. On this main page, only the representative milestones, the papers published in 2026 and the source-verified empirical anchors are shown.**
